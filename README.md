@@ -3,7 +3,7 @@
 
 :telescope: I'm a software developer that specializes in React.
 
-:seedling: I'm currently learning about React Hooks and local storage.
+:seedling: I'm currently learning about data integration and React Hooks.
 
 ⚡ I enjoy reading, lifting, and being outdoors.
 
