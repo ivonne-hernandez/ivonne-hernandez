@@ -3,7 +3,7 @@
 
 :telescope: I'm a software developer that specializes in React.
 
-:seedling: I'm currently learning about data integration and React Hooks.
+:seedling: I'm currently learning C via the HarvardX CS50x course.
 
 ⚡ I enjoy reading, lifting, and being outdoors.
 
