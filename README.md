@@ -3,7 +3,7 @@
 
 :telescope: I'm a software developer that specializes in React.
 
-:seedling: I'm currently learning TypeScript to refactor our existing codebase.
+:seedling: I'm currently refactoring our existing codebase to use TypeScript, React Hook Form and Zod.
 
 ⚡ I enjoy reading, lifting, and being outdoors.
 
