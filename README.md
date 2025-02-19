@@ -7,6 +7,5 @@
 
 ⚡ I enjoy reading, lifting, and being outdoors.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ivonne-hernandez&show_icons=true&theme=graywhite)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonne-hernandez&layout=compact&theme=graywhite)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ivonne-hernandez&show_icons=true&theme=graywhite&cache=1)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonne-hernandez&layout=compact&theme=graywhite&cache=1)
