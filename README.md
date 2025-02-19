@@ -3,7 +3,7 @@
 
 :telescope: I'm a software developer that specializes in React.
 
-:seedling: I'm currently learning Python through Neetcode challenges.
+:seedling: I'm currently learning Python through Neetcode.
 
 ⚡ I enjoy reading, lifting, and being outdoors.
 
